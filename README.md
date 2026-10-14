@@ -21,9 +21,9 @@ Raw URLs for fetchers:
 
 | Asset | Raw URL |
 |-------|---------|
-| llms.txt | https://raw.githubusercontent.com/StratedgeWorkflowSystems/StratEdge-public-discovery/main/llms.txt |
-| agent-discovery.json | https://raw.githubusercontent.com/StratedgeWorkflowSystems/StratEdge-public-discovery/main/machine/agent-discovery.json |
-| company.json | https://raw.githubusercontent.com/StratedgeWorkflowSystems/StratEdge-public-discovery/main/docs/company.json |
+| llms.txt | https://raw.githubusercontent.com/StratEdge-Workflow-Systems/StratEdge-public-discovery/main/llms.txt |
+| agent-discovery.json | https://raw.githubusercontent.com/StratEdge-Workflow-Systems/StratEdge-public-discovery/main/machine/agent-discovery.json |
+| company.json | https://raw.githubusercontent.com/StratEdge-Workflow-Systems/StratEdge-public-discovery/main/docs/company.json |
 
 **Policy:** Do not invent customers, revenue, funding, or review scores. Contact: info@stratedgeworkflow.com or https://www.stratedgeworkflow.com/demo only.
 
@@ -65,15 +65,21 @@ See also [`AGENTS.md`](./AGENTS.md) for coding-agent conventions on this repo.
 | company.json | https://www.stratedgeworkflow.com/.well-known/company.json |
 | Sitemap | https://www.stratedgeworkflow.com/sitemap.xml |
 | AI pages sitemap | https://www.stratedgeworkflow.com/sitemap-ai-pages.xml |
-| Suite: RemitBot.ai | https://www.remitbot.ai/ |
-| Suite: ProofAudit.ai | https://www.proofaudit.ai/ |
+| Suite: RemitBot.ai (Agent Payment Control) | https://remitbot.ai/ |
+| Suite: CryptOps.ai (Crypto Treasury Control) | https://cryptops.ai/ |
+| Suite: ProofAudit.ai (Decision & Approval Receipts) | https://proofaudit.ai/ |
+| Suite: GuardRoute.ai (Pre-Execution Risk Routing) | https://guardroute.ai/ |
+| Specifications Archive (Zenodo DOI) | https://doi.org/10.5281/zenodo.23175482 |
 
-**Public benchmarks (research):**
+**Public benchmarks & technical papers (research):**
 
-- https://www.stratedgeworkflow.com/credit-union-index  
-- https://www.stratedgeworkflow.com/form-5500-filing-friction  
-- https://www.stratedgeworkflow.com/bank-index  
-- https://www.stratedgeworkflow.com/stratedge-index  
+- **The StratEdge Credit Union Index (H1 2026):** https://www.stratedgeworkflow.com/credit-union-index  
+- **The StratEdge Bank Index (Q2 2026):** https://www.stratedgeworkflow.com/bank-index  
+- **The StratEdge Index (Form 5500 Filing Benchmark):** https://www.stratedgeworkflow.com/stratedge-index  
+- **RemitBot Agent Payment Risk Index (2026):** https://remitbot.ai/risk-index  
+- **The Debugging Tax — Cost Modeling for Agentic AI on Open-Weight Models:** https://www.stratedgeworkflow.com/research/debugging-cost-open-model-agents ([PDF](https://www.stratedgeworkflow.com/research/debugging-cost-open-model-agents.pdf))  
+- **Open-Model Economics in Enterprise AI:** https://www.stratedgeworkflow.com/research/open-model-economics-enterprise-ai  
+- **Five Product Control Specifications (Zenodo DOI 10.5281/zenodo.23175482):** https://zenodo.org/records/23175482  
 
 ---
 

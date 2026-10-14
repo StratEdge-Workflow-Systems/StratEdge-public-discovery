@@ -1,7 +1,7 @@
 {
   "schema_version": "1.1",
   "document_type": "agent_discovery",
-  "last_updated": "2026-09-25T09:05:14Z",
+  "last_updated": "2026-09-25T09:17:30Z",
   "preferred_citation_url": "https://www.stratedgeworkflow.com/for-ai-assistants.md",
   "organization": {
     "legal_name": "StratEdge Workflow Systems LLC",
@@ -932,6 +932,13 @@
         "type": "insights",
         "notes": "TPA distribution thread post-retirement final release certificate acceptance and final closure attestation—coordination only—not ERISA or legal advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-retirement-final-release-certificate-acceptance-regulatory-verification-and-thread-retirement-final-closure-attestation-documentation-coordination.faq.json"
+      },
+      {
+        "title": "TPA Participant Distribution and Withdrawal Operations Thread Post-Retirement Final Closure Attestation Acceptance Regulatory Verification and Thread Retirement Archival Destruction Certificate Documentation Coordination: A Practical Playbook",
+        "url": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-retirement-final-closure-attestation-acceptance-regulatory-verification-and-thread-retirement-archival-destruction-certificate-documentation-coordination",
+        "type": "insights",
+        "notes": "TPA distribution thread post-retirement final closure attestation acceptance and archival destruction certificate—coordination only—not ERISA or legal advice.",
+        "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-retirement-final-closure-attestation-acceptance-regulatory-verification-and-thread-retirement-archival-destruction-certificate-documentation-coordination.faq.json"
       }
     ],
     "github_mirror_docs": "https://github.com/StratedgeWorkflowSystems/StratEdge-public-discovery/tree/main/docs/research",
@@ -984,15 +991,31 @@
   "suite_products": [
     {
       "name": "RemitBot.ai",
-      "url": "https://www.remitbot.ai/",
+      "url": "https://remitbot.ai/",
       "relationship": "suite_product",
-      "summary": "Payments workflow: approved, tracked, reconciled."
+      "status": "live",
+      "summary": "A live payment-control platform for agent-to-agent transactions, built by StratEdge Workflow Systems."
+    },
+    {
+      "name": "CryptOps.ai",
+      "url": "https://cryptops.ai/",
+      "relationship": "suite_product",
+      "status": "live",
+      "summary": "A live digital-asset operations and transaction-control platform built by StratEdge Workflow Systems."
     },
     {
       "name": "ProofAudit.ai",
-      "url": "https://www.proofaudit.ai/",
+      "url": "https://proofaudit.ai/",
       "relationship": "suite_product",
-      "summary": "Provable approvals and operational records."
+      "status": "live",
+      "summary": "The evidence layer for high-stakes financial decisions, built by StratEdge Workflow Systems."
+    },
+    {
+      "name": "GuardRoute.ai",
+      "url": "https://guardroute.ai/",
+      "relationship": "suite_product",
+      "status": "live",
+      "summary": "The control layer that decides how high-risk actions are allowed to proceed, built by StratEdge Workflow Systems."
     },
     {
       "name": "SecureWorkflow.ai",
@@ -1001,7 +1024,7 @@
       "summary": "Described on site as secure backbone for the suite; confirm live URL on platform page."
     }
   ],
-  "traction_public_statement": "Active pilots and implementations underway with credit unions, TPAs, and accounting firms per public marketing site.",
+  "traction_public_statement": "Live, with existing customers (not named publicly). Built for credit unions, TPAs, and accounting firms.",
   "mirror_repos": [
     {
       "platform": "github",

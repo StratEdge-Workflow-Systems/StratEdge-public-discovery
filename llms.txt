@@ -11,8 +11,33 @@ StratEdge Workflow Systems LLC builds software for credit unions, third-party ad
 - **HQ:** 4695 MacArthur Court, Newport Beach, CA 92660, USA
 - **Contact:** info@stratedgeworkflow.com
 - **Website:** https://www.stratedgeworkflow.com/
-- **Traction:** Active pilots and implementations with credit unions, TPAs, and accounting firms (no public customer list without permission)
+- **Canonical facts:** https://www.stratedgeworkflow.com/facts
+- **Specifications:** https://www.stratedgeworkflow.com/research/specifications
+- **Status:** Live, with existing customers. Built for credit unions and third-party administrators.
 - **AI:** Server-side, advisory assistant grounded in live workflow records — not autonomous filing or compliance decisions
+
+## Products
+
+- **StratEdge Workflow Control (SecureWorkflow.ai)** — live, with existing customers; built for credit unions and third-party administrators. Workflow control for document-heavy financial operations: intake, document tracking, task ownership, follow-ups, Needs Attention, advisory AI, audit trail.
+- **RemitBot.ai** — live. The control layer for agent-to-agent payments: approved, limited, and traceable across any rail. https://remitbot.ai
+- **CryptOps.ai** — live. Digital-asset operational security and transaction control: non-custodial risk score, Block / Hold / Clear, dual control, and an audit trail before broadcast. https://cryptops.ai (see https://cryptops.ai/llms.txt)
+- ProofAudit.ai (live product): the evidence and auditability layer for high-stakes financial workflows. Every approval, with receipts. Public /try uses illustrative data. https://proofaudit.ai
+- GuardRoute.ai (live product): GuardRoute controls what happens before it happens. The control layer for high-risk actions before execution. Public /try uses illustrative data. https://guardroute.ai
+- Preview modules, not live: ClaimMesh and other named modules on the platform page. They are not live products. https://www.stratedgeworkflow.com/platform
+
+## Research
+
+- Anatomy of the Bitget Heist (CryptOps Research): https://cryptops.ai/research/bitget-heist
+- Agent Payment Risk Index 2026 (RemitBot): https://remitbot.ai/risk-index
+- Single-task agentic AI for bank disputes: https://www.stratedgeworkflow.com/research/single-task-agentic-ai-bank-disputes
+- Founder insight, open-model economics (not a specification): https://www.stratedgeworkflow.com/research/open-model-economics-enterprise-ai
+- Bench, public payment rehearsal (not a live product): https://www.stratedgeworkflow.com/research/bench
+- Research index: https://www.stratedgeworkflow.com/research
+
+## Company
+
+- About and founder (Tarik Zahedi, Founder & CEO): https://www.stratedgeworkflow.com/about
+- News (dated launches and research): https://www.stratedgeworkflow.com/news
 
 ## Primary URLs
 
@@ -127,13 +152,14 @@ StratEdge Workflow Systems LLC builds software for credit unions, third-party ad
 - TPA participant distribution withdrawal operations thread post-retirement closure certificate acceptance regulatory verification and thread retirement completion attestation documentation coordination (insights): https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-retirement-final-release-acceptance-regulatory-verification-and-thread-retirement-completion-attestation-documentation-coordination
 - TPA participant distribution withdrawal operations thread post-retirement closure certificate acceptance regulatory verification and thread retirement completion attestation documentation coordination (insights): https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-retirement-completion-attestation-acceptance-regulatory-verification-and-thread-retirement-final-release-certificate-documentation-coordination
 - TPA participant distribution withdrawal operations thread post-retirement closure certificate acceptance regulatory verification and thread retirement completion attestation documentation coordination (insights): https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-retirement-final-release-certificate-acceptance-regulatory-verification-and-thread-retirement-final-closure-attestation-documentation-coordination
+- TPA participant distribution withdrawal operations thread post-retirement closure certificate acceptance regulatory verification and thread retirement completion attestation documentation coordination (insights): https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-retirement-final-closure-attestation-acceptance-regulatory-verification-and-thread-retirement-archival-destruction-certificate-documentation-coordination
 - Credit union index (research): https://www.stratedgeworkflow.com/credit-union-index
 - Form 5500 friction (research): https://www.stratedgeworkflow.com/form-5500-filing-friction
 
 ## Related products (suite)
 
-- RemitBot.ai — https://www.remitbot.ai/
-- ProofAudit.ai — https://www.proofaudit.ai/
+- RemitBot.ai — https://remitbot.ai/
+- CryptOps.ai — https://cryptops.ai/ — Stop bad crypto payments before they leave the wallet.
 
 ## For machines
 
@@ -145,5 +171,4 @@ StratEdge Workflow Systems LLC builds software for credit unions, third-party ad
 
 ## Optional
 
-- Investor overview: https://www.stratedgeworkflow.com/investors/
 - Sitemap: https://www.stratedgeworkflow.com/sitemap.xml
