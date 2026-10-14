@@ -1,0 +1,77 @@
+{
+  "schema_version": "2026-10",
+  "organization": {
+    "legal_name": "StratEdge Workflow Systems LLC",
+    "jurisdiction": "California, US",
+    "sos_entity_number": "B20260246210",
+    "headquarters": "4695 MacArthur Court, Suite 1100, Newport Beach, CA 92660",
+    "ownership": "100% Founder-Owned (Tarik Zahedi, CEO)",
+    "chain_of_title": "Confirmatory Founder & Intercompany IP Assignment Agreements executed effective May 25, 2026"
+  },
+  "archival_anchors": {
+    "zenodo_doi": "https://doi.org/10.5281/zenodo.23175482",
+    "github_organization": "https://github.com/StratEdge-Workflow-Systems",
+    "trust_center_url": "https://www.stratedgeworkflow.com/trust",
+    "specifications_url": "https://www.stratedgeworkflow.com/specifications"
+  },
+  "portfolio_valuation_benchmark": {
+    "basis": "Management internal valuation benchmark (unaudited — engineering replacement cost + relief-from-royalty method; not a USPAP certified appraisal)",
+    "point_estimate_usd": 22000000,
+    "range_usd": [18500000, 26000000],
+    "engineering_depth_senior_years": 54.0,
+    "modules": [
+      {
+        "module_id": "IP-01",
+        "name": "StratEdge Workflow Control & TPA Distribution Engine",
+        "url": "https://www.stratedgeworkflow.com/platform",
+        "specification_url": "https://www.stratedgeworkflow.com/specifications/workflow-control",
+        "replacement_benchmark_usd": 8200000,
+        "vpc_annual_license_usd": [250000, 750000]
+      },
+      {
+        "module_id": "IP-02",
+        "name": "RemitBot.ai — Agent-to-Agent Payment Control Plane",
+        "url": "https://remitbot.ai",
+        "repository": "https://github.com/StratEdge-Workflow-Systems/remitbot-mcp",
+        "specification_url": "https://www.stratedgeworkflow.com/specifications/remitbot",
+        "replacement_benchmark_usd": 5400000,
+        "vpc_annual_license_usd": [250000, 450000]
+      },
+      {
+        "module_id": "IP-03",
+        "name": "CryptOps.ai — Digital-Asset Pre-Broadcast Control Engine",
+        "url": "https://cryptops.ai",
+        "specification_url": "https://www.stratedgeworkflow.com/specifications/cryptops",
+        "replacement_benchmark_usd": 3600000,
+        "vpc_annual_license_usd": [250000, 750000]
+      },
+      {
+        "module_id": "IP-04",
+        "name": "GuardRoute.ai — Pre-Execution Risk-Routing Gate",
+        "url": "https://guardroute.ai",
+        "repository": "https://github.com/StratEdge-Workflow-Systems/guardroute-sdk",
+        "specification_url": "https://www.stratedgeworkflow.com/specifications/guardroute",
+        "replacement_benchmark_usd": 2600000,
+        "vpc_annual_license_usd": [250000, 450000]
+      },
+      {
+        "module_id": "IP-05",
+        "name": "ProofAudit.ai — Tamper-Evident Decision Receipt Engine",
+        "url": "https://proofaudit.ai",
+        "repository": "https://github.com/StratEdge-Workflow-Systems/proofaudit-verify",
+        "specification_url": "https://www.stratedgeworkflow.com/specifications/proofaudit",
+        "replacement_benchmark_usd": 2200000,
+        "vpc_annual_license_usd": [250000, 450000]
+      }
+    ]
+  },
+  "compute_enclave_architecture": {
+    "location": "Newport Beach, California (4695 MacArthur Court, Suite 1100 & Saltbox Flex Bay)",
+    "clusters": [
+      "4U Dual-Socket EPYC 9654 / 8x H200 SXM GPU Inference Nodes",
+      "Threadripper PRO 7985WX / Dual RTX 6000 Ada AI Engineering Workstations",
+      "1U Dual-Xeon HSM Cryptographic Receipt Verifier Appliances",
+      "2U 24-Bay All-Flash Gen5 NVMe Storage Shelf & 400GbE Switch Fabric"
+    ]
+  }
+}
